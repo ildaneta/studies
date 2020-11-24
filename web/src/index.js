@@ -1,9 +1,12 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 
+import './styles/global.css';
+import Cadastro from './pages/cadastro'
+
 ReactDOM.render(
   <React.StrictMode>
-    <div />
+    <Cadastro />
   </React.StrictMode>,
   document.getElementById('root')
 );
