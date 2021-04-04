@@ -1,6 +1,0 @@
-module Pods_reactJS {
-  umbrella header "Pods-reactJS-umbrella.h"
-
-  export *
-  module * { export * }
-}
