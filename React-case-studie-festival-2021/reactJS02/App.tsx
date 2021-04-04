@@ -1,12 +1,12 @@
 import React from 'react';
-import { SafeAreaView, Text, View } from 'react-native';
+import EStyleSheet from 'react-native-extended-stylesheet';
+
+import Home from './src/view/Home';
+
+EStyleSheet.build({});
 
 const App = (): JSX.Element => {
-  return (
-    <SafeAreaView>
-      <Text>React JS Case Study Festival 2021</Text>
-    </SafeAreaView>
-  );
+  return <Home />;
 };
 
 export default App;
