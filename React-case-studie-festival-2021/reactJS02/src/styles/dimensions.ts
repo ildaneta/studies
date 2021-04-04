@@ -1,0 +1,26 @@
+const dimensions = {
+  marginPrimary18: '1.125rem',
+  borderPrimary1: '0.0625rem',
+  spacingQuark4: '0.25rem',
+  spacingNano8: '0.5rem',
+  spacingNano10: '0.625rem',
+  spacingXXXSmall16: '1rem',
+  spacingXXSmall24: '1.5rem',
+  spacingXSmall32: '2rem',
+  spacingSmall40: '2.5rem',
+  spacingMedium48: '3rem',
+  spacingLarge56: '3.5rem',
+  spacingXLarge64: '4rem',
+  spacingXXLarge80: '5rem',
+  heightFull: '100%',
+  heightLarge73: '4.5625rem',
+  heightXLarge117: '7.3125rem',
+  heightXXLarge132: '8.25rem',
+  heightXXLarge136: '8.5rem',
+  heightXXXLarge283: '17.6875rem',
+  widthFull: '100%',
+  widthPrimary: '100% - 2rem',
+  widthSecondary: '50% - 2rem',
+};
+
+export default dimensions;
